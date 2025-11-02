@@ -28,15 +28,5 @@ Full-stack project: Java Spring Boot backend + React frontend.
 - How used: Generated project scaffold, sample controllers, and README. I reviewed and adapted code.
 - Reflection: AI helped speed up initial setup. I ensured auth and DB logic are reviewed and secure.
 
-## GitHub
-1. Create repo on GitHub.
-2. From project root:
-   - `git init`
-   - `git add .`
-   - `git commit -m "chore: initial commit
 
-Co-authored-by: ChatGPT <chatgpt@openai.com>"`
-   - `git branch -M main`
-   - `git remote add origin <your-repo-url>`
-   - `git push -u origin main`
 
